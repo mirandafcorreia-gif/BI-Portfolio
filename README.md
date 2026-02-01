@@ -1,34 +1,28 @@
-# Projeto de Business Intelligence – Análise de Vendas (Superstore)
+# Portfólio de Business Intelligence
 
-## Visão Geral
-Este projeto apresenta uma análise de vendas de uma empresa varejista fictícia (Superstore), com foco no desempenho comercial ao longo do tempo, por região e por categoria de produtos.
+Projetos desenvolvidos por Murilo Miranda França Correia, com foco em análise de dados, visualização e suporte à tomada de decisão.
 
-O objetivo é transformar dados brutos em informações claras e acionáveis para apoiar a tomada de decisão.
+## 📌 Sobre este repositório
+Este repositório reúne projetos práticos de Business Intelligence utilizando Power BI, com dados reais e foco em indicadores de desempenho (KPIs), análise exploratória e geração de insights de negócio.
 
-## Ferramentas Utilizadas
+### 🛠️ Ferramentas e competências
 - Power BI
-- Power Query
-- DAX
-- CSV (Sample Superstore Dataset)
+- Power Query (ETL)
+- DAX básico
+- Modelagem de dados
+- Análise de KPIs
+- Visualização de dados
 
-## KPIs Analisados
-- Faturamento Total
-- Lucro Total
-- Ticket Médio (por pedido)
-- Quantidade Vendida
+### 📊 Projetos
 
-## Análises Desenvolvidas
-- Evolução do faturamento mensal
-- Top 5 produtos mais lucrativos
-- Lucro por categoria de produto
-- Lucro por região
-- Análise de sazonalidade
+- **Análise de Vendas – Superstore**
+  - Análise de faturamento, lucro, ticket médio e desempenho por região e categoria
+  - Dataset público (Superstore)
+  - Dashboard interativo no Power BI
 
-## Principais Insights
-- A região West concentra o maior faturamento, porém apresenta margens menores em algumas categorias
-- A categoria Technology é a mais lucrativa
-- Furniture apresenta baixa lucratividade em relação ao volume de vendas
-- Existe sazonalidade positiva no último trimestre do ano
+### 🎯 Objetivo profissional
+Atualmente busco oportunidades como Analista de BI Júnior ou áreas correlatas, onde eu possa aplicar análise de dados para apoiar decisões estratégicas.
 
-## Objetivo Profissional
-Projeto desenvolvido com foco em oportunidades como **Analista de BI Júnior / Analista de Dados Júnior**, demonstrando capacidade de análise, organização de dados e comunicação de insights de negócio.
+### 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/murilomfcorreia/
+
